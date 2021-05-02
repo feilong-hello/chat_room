@@ -10,7 +10,7 @@
 用到的库：
 
 1. nodejs 
-    - pm2 运行管理工具
+    - pm2 这个是全局的，用来管理server.js的运行
     - nodejs-websocket
     - express
     - uuid
